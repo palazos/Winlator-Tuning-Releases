@@ -10,7 +10,7 @@ This
 # What is Winlator Tuning?
 
 Winlator Tuning is a fork of the  **Winlator Ludashi** project by [StevenMX](https://github.com/StevenMXZ/Winlator-Ludashi) who includes all recent commits and unofficial QoL (Quality of Life) improvements made by [palazos](https://github.com/palazos/Winlator-Tuning-Releases).
-It has new features that have not yet been implemented in Ludashi or are not included in the plans and are his own modifications.
+It has new features that have not yet been implemented in Ludashi or are not included in the plans and are my own modifications.
 
 Some of the Functionalities and Improves are:
 
