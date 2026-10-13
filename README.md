@@ -5,12 +5,9 @@ Improvements and unofficial features for Winlator Ludashi
 
 Winlator is an Android application that lets you run Windows (x86\_64) applications with Wine. It supports standard `x86_64` containers using Box86/Box64, as well as `Arm64EC` containers which utilize FEXCore (for 64/32-bit) or an optional WowBox64 (for 32-bit).
 
-This 
-
 # What is Winlator Tuning?
 
-Winlator Tuning is a fork of the  **Winlator Ludashi** project by [StevenMX](https://github.com/StevenMXZ/Winlator-Ludashi) who includes all recent commits and unofficial QoL (Quality of Life) improvements made by [palazos](https://github.com/palazos/Winlator-Tuning-Releases).
-It has new features that have not yet been implemented in Ludashi or are not included in the plans and are my own modifications.
+Winlator Tuning is a fork of **Winlator Ludashi** project by [StevenMX](https://github.com/StevenMXZ/Winlator-Ludashi) who includes all recent commits and QOL improvements and new functionalities made by [palazos](https://github.com/palazos/Winlator-Tuning-Releases).
 
 Some of the Functionalities and Improves are:
 
@@ -20,8 +17,6 @@ Some of the Functionalities and Improves are:
 - When hosting rooms, it's preferable to use Wi-Fi because mobile networks use symmetric NAT. Current Version of Palazos VPN Engine doesnt allow that.
 - Mobile networks are allowed to join or host rooms only on IPv6 Cases.
 - Winlator Tuning must be updated to use this feature, if not directory connection can fail for certification to the broker.
-
- "<small>*VPN Feature is currently in a testing phase and subject to community feedback. Feel free to have fun without harming others; any attempt to use these features for hacking, sharing NSFW content, doxing or other malicious purposes will result in a permanent ban from these features. This ban will be enforced based on IMEI, MAC address, or other device information direct on the room directory*</small>"
 
 🕹️ Game Controllers "Dildo Feature"
 - Multiple controllers with hot-swap on disconnect while playing, similar to Dildo — pads can be unplugged mid-game without breaking input and 
