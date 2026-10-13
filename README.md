@@ -25,12 +25,11 @@ Some of the Functionalities and Improves are:
 
 🎮 Scan Games
 
-- New Scan Games flow: pick a games folder, choose target containers, review detected titles, and batch-create shortcuts in the Library.
-- When a game folder has more than one executable, you can pick a different one before adding it.
+- New Scan Games flow: pick a games folder and select your games and exes.
 
  🗑️ Remove All Shortcuts
 
- New **Remove all shortcuts** action to delete every shortcut across all containers in one step (with confirmation).
+- Delete every shortcut across all containers in one step (with confirmation).
 
 # Installation
 
