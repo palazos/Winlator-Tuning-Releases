@@ -6,7 +6,6 @@
 
 Improvements and features for Winlator Ludashi
 
-
 # About Winlator 
 
 Winlator is an Android application that lets you run Windows (x86\_64) applications with Wine. It supports standard `x86_64` containers using Box86/Box64, as well as `Arm64EC` containers which utilize FEXCore (for 64/32-bit) or an optional WowBox64 (for 32-bit).
@@ -25,7 +24,7 @@ Some of the Functionalities and Improves are:
 - Winlator Tuning must be updated to use this feature, if not directory connection can fail for certification to the broker.
 
 🕹️ Game Controllers "Dildo Feature"
-- Multiple controllers with hot-swap on disconnect while playing, similar to Dildo — pads can be unplugged mid-game without breaking input and 
+- Multiple controllers with hot-swap on disconnect while playing, similar to Dildo — pads can be unplugged mid-game without breaking input.
 - Controllers are detected on the fly
 - Vibration works as it should.
 
