@@ -1,40 +1,27 @@
-# Winlator Tuning Releases
+# Winlator Tuning
 
+# Quality of Life Features and LAN Play.
+
+<img src= "1000131210_1_5.gif" >
+
+Winlator Tuning allows you to play with friends all across the world or on the comfort of you home by enabling LAN play on all games that support it.
+
+<img src= "Screenshot_2026-10-14-01-00-11-424_com.winlatortuning.cmod.png" width="300"> <img src= "Screenshot_2026-10-14-00-56-54-568_com.winlatortuning.cmod.png" width="320">
+
+Just create a room and invite friends over. You can open private rooms to invite your friends or even open public rooms so any stranger can hop and play any game you playing and imitate an online server. Or just join any public server of anyone that is playing the same game as you.
+
+
+# Over 2,000 games with Native LAN support and many more with mods to add support to them.
 <img src="Screen_Recording_20261013_114032.gif" width="650" alt="App Demo"> <img src="Screen_Recording_20261013_120452.gif" width="220" alt="Rooms">
 
+Join us to test them...
 
+You can check which games support LAN here
+[List of games with LAN multiplayer](https://www.pcgamingwiki.com/wiki/List_of_games_with_LAN_multiplayer)
 
-Improvements and features for Winlator Ludashi
+# Automatically import all your games with a single tap.
+<img src= "Screenshot_20261013_115759.jpg">
 
-# About Winlator 
-
-Winlator is an Android application that lets you run Windows (x86\_64) applications with Wine. It supports standard `x86_64` containers using Box86/Box64, as well as `Arm64EC` containers which utilize FEXCore (for 64/32-bit) or an optional WowBox64 (for 32-bit).
-
-# What is Winlator Tuning?
-
-Winlator Tuning is a fork of **Winlator Ludashi** project by [StevenMX](https://github.com/StevenMXZ/Winlator-Ludashi) and includes all recent commits and QOL improvements and functionalities made by [palazos](https://github.com/palazos/Winlator-Tuning-Releases).
-
-Some of the Functionalities and Improves are:
-
-👥 Multiplayer VPN Engine Feature (NEW)
-- Players can make private or public rooms to connect with each other starting a host in his own devices.
-- That allows to play Lan games between devices with an enrypted connection with friends.
-- When hosting rooms, it's preferable to use Wi-Fi because mobile networks use symmetric NAT. Current Version of Palazos VPN Engine doesnt allow that.
-- Mobile networks are allowed to join or host rooms only on IPv6 Cases.
-- Winlator Tuning must be updated to use this feature, if not directory connection can fail for certification to the broker.
-
-🕹️ Game Controllers "Dildo Feature"
-- Multiple controllers with hot-swap on disconnect while playing, similar to Dildo — pads can be unplugged mid-game without breaking input.
-- Controllers are detected on the fly
-- Vibration works as it should.
-
-🎮 Scan Games
-
-- New Scan Games flow: pick a games folder and select your games and exes.
-
- 🗑️ Remove All Shortcuts
-
-- Delete every shortcut across all containers in one step (with confirmation).
 
 # Installation
 
