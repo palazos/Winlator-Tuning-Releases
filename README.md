@@ -1,5 +1,11 @@
-# Winlator-Tuning-Releases
-Improvements and unofficial features for Winlator Ludashi
+# Winlator Tuning Releases
+
+<img src="Screen_Recording_20261013_114032.gif" width="650" alt="App Demo"> <img src="Screen_Recording_20261013_120452.gif" width="220" alt="Rooms">
+
+
+
+Improvements and features for Winlator Ludashi
+
 
 # About Winlator 
 
