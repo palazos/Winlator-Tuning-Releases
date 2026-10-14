@@ -12,7 +12,7 @@ Just create a room and invite friends over. You can open private rooms to invite
 
 
 # Over 2,000 games with Native LAN support and many more with mods to add support to them.
-<img src="Screen_Recording_20261013_114032.gif" width="650" alt="App Demo"> <img src="Screen_Recording_20261013_120452.gif" width="220" alt="Rooms">
+<img src="Screen_Recording_20261013_114032.gif" width="650" alt="App Demo">
 
 Join us to test them...
 
