@@ -40,6 +40,9 @@ Some of the Functionalities and Improves are:
 
 1.  Download and install the latest APK from this repository's [Releases section](https://github.com/palazos/Winlator-Tuning-Releases)
 2.  Allow VPN to play with friends and make rooms.
+
+# Special Thanks too:
+Ziad and Psycho for their trust, patience, and time.
    
 # Credits and Third-party apps
 
