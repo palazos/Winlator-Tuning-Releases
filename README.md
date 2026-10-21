@@ -22,6 +22,22 @@ You can check which games support LAN here
 # Automatically import all your games with a single tap.
 <img src= "Screenshot_20261013_115759.jpg">
 
+# Smoother gameplay with Frame Generation.
+
+Turn Frame Generation on from the in-game overlay (Vulkan). The game keeps drawing real frames, and extra ones are interpolated in between so motion looks smoother.
+
+Unlike other frame generation, this one follows VSYNC. Generated frames land on the display refreshes the game would miss, so you can leave VSYNC on and still fill the screen.
+
+**Fixed** caps the game at a fraction of the refresh rate (X2 or X3) and generates the missing frames. Uses less power and keeps a steady pace.
+
+<img src= "fixed_sample.jpg" width="490"> <img src= "fixed_sample_hud.jpg" width="490">
+
+**Dynamic** lets the game run uncapped and only generates the frames the display would otherwise repeat, up to the refresh rate. Uses more power, but you keep every extra real frame the game can produce.
+
+<img src= "dynamic_sample.jpg" width="490"> <img src= "dynamic_sample_hud.jpg" width="490">
+
+Watch an uncompressed showcase [here](https://palazo.uncompressed.io/screen-20261021-143612).
+
 
 # Installation
 
