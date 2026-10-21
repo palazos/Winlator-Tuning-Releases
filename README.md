@@ -22,7 +22,7 @@ You can check which games support LAN here
 # Automatically import all your games with a single tap.
 <img src= "Screenshot_20261013_115759.jpg">
 
-# Smoother gameplay with custom Tuning Vulkan Frame Generation.
+# Smoother gameplay with custom Tuning Vulkan Frame Generation. (NEW)
 
 Turn Frame Generation on from the in-game overlay (Vulkan). The game keeps drawing real frames, and extra ones are interpolated in between so motion looks smoother.
 
