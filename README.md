@@ -41,7 +41,7 @@ It allows you to play games on max graphics without losing the VSYNC, smoother a
 
 Watch an uncompressed showcase [here](https://palazo.uncompressed.io/screen-20261021-143612).
 
-# Full Touch Screen Control
+# Full Touch Screen Control (NEW)
 
 "Winlator Tuning new upcoming update includes improvements for the touch controls. 
 Now having gestures to zoom in, zoom out and drag select across many other very useful inputs to play RTS games or similar with no need of having on-screen controllers. Just as if it was a native android game".
